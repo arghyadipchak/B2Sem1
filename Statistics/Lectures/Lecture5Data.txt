@@ -1,0 +1,435 @@
+Employer	CEO	CEO_Compensation	Median_Worker_Comp	Ratio	Company_Rating	CEO_Compensation_($000)
+CBRE	Robert E. Sulentic	6367953	63012	101	3.7	636.79530
+MasterCard	Ajay Banga	13406041	127625	105	3.6	1340.6041
+Universal Health Services	Alan B. Miller	18425575	50865	362	2.9	1842.5575
+McCormick & Company	Alan D. Wilson	10259802	73512	140	3.6	1025.9802
+Procter & Gamble	Alan George Lafley	19504353	102590	190	3.9	1950.4353
+Williams	Alan S. Armstrong	11604615	85507	136	3.9	1160.4615
+Owens-Illinois	Albert P. L. Stroucken	9042602	72940	124	3.1	904.26020
+Johnson Controls	Alex A. Molinaroli	19540681	77724	251	3.3	1954.0681
+Johnson & Johnson	Alex Gorsky	24989306	106821	234	3.9	2498.9306
+Eaton	Alexander M. Cutler	16747752	80331	208	3.5	1674.7752
+FLIR	Andrew C. Teich	4616007	94063	49	3.7	461.60070
+Dow Chemical	Andrew Liveris	19507233	96614	202	3.7	1950.7233
+Electronic Arts	ANDREW WILSON	13975381	100937	138	3.6	1397.5381
+AES Corporation	Andrs Ricardo Gluski Weilert	8403245	115000	73	4	840.32450
+Pacific Gas and Electric	Anthony F. Earley, Jr.	11627216	106819	109	3.6	1162.7216
+FirstEnergy	Anthony J. Alexander	15563530	71140	219	3.1	1556.3530
+Marriott	Arne M. Sorenson	14892836	30620	486	3.7	1489.2836
+Carnival Corporation	Arnold W. Donald	8730512	42413	206	3.5	873.05120
+Macerich	Arthur M. Coppola	14212869	49780	286	3.4	1421.2869
+Ross Stores	Barbara Rentler	12083834	19120	632	2.8	1208.3834
+Xcel Energy	Ben Fowke	12870477	78760	163	3.2	1287.0477
+KeyBank	Beth E. Mooney	7124566	53148	134	3.1	712.45660
+Nordstrom	Blake W. Nordstrom	3789239	34738	109	3.6	378.92390
+Dollar Tree	Bob Sasser	7814488	22890	341	2.8	781.44880
+Intuit	Brad D. Smith	16548469	126999	130	3.8	1654.8469
+DENTSPLY International	Bret W. Wise	6052469	83722	72	2.7	605.24690
+Target	Brian C. Cornell	28164024	30000	939	3.2	2816.4024
+Hasbro	Brian Goldner	14623112	77800	188	4.1	1462.3112
+Comcast	Brian L. Roberts	32961056	59745	552	3.2	3296.1056
+Intel Corporation	Brian M. Krzanich	11197400	113489	99	3.8	1119.7400
+Keurig Green Mountain	Brian P. Kelley	7617180	72542	105	3.1	761.71800
+Bank of America	Brian T. Moynihan	15342399	52923	290	3.3	1534.2399
+Humana	Bruce D. Broussard	10155401	60904	167	3.5	1015.5401
+Mattel	Bryan G. Stockton	9858591	100000	99	3	985.85910
+Walmart	C. Douglas McMillon	25592938	22591	1133	3	2559.2938
+Autodesk	Carl Bass	8297290	130149	64	3.9	829.72900
+ADP	Carlos A. Rodriguez	8237147	75511	109	3.5	823.71470
+TJX Companies	Carol Meyrowitz	22514033	44922	501	3.3	2251.4033
+Stericycle	Charles A. Alutto	3635560	46967	77	2.8	363.55600
+Noble Energy	Charles D. Davidson	9490147	108907	87	2.8	949.01470
+PPG	Charles E. Bunch	21628081	60895	355	3.1	2162.8081
+Norfolk Southern	Charles W. Moorman, IV	13536017	65133	208	3.2	1353.6017
+Visa Inc.	Charles W. Scharf	7692113	154171	50	3	769.21130
+Sherwin-Williams	Christopher M. Connor	10896734	45263	241	3.6	1089.6734
+Exelon	Christopher M. Crane	14990830	92391	162	3.9	1499.0830
+The Hartford	Christopher Swift	5392784	61985	87	3.3	539.27840
+Darden	Clarence Otis, Jr.	6980147	38360	182	3.5	698.01470
+National Oilwell Varco	Clay C. Williams	10863057	64074	170	3.4	1086.3057
+Garmin	Clifton A. Pemble	1716612	72491	24	3.8	171.66120
+Jacobs	Craig L. Martin	5998350	81700	73	3.3	599.83500
+Verisign	D. James Bidzos	7652865	132475	58	3.9	765.28650
+Micron Technology	D. Mark Durcan	11479108	84743	135	3.4	1147.9108
+UPS	D. Scott Davis	16994449	31880	533	3.5	1699.4449
+St. Jude Medical	Daniel J. Starks	10171096	95755	106	2.9	1017.1096
+Aflac	Daniel P. Amos	15477348	45723	339	3.3	1547.7348
+Marsh & McLennan Companies	Daniel S. Glaser	14906638	74460	200	3.2	1490.6638
+Expedia	Dara Khosrowshahi	9642406	108555	89	4.1	964.24060
+Priceline.com	Darren Huston	21966094	90187	244	4	2196.6094
+Advance Auto Parts	Darren R. Jackson	4303711	35699	121	2.9	430.37110
+Yum!	David C. Novak	10007287	104443	96	3.4	1000.7287
+NRG Energy	David Crane	10335269	98500	105	3.5	1033.5269
+Allergan	David E. I. Pyott	17785957	105237	169	3.5	1778.5957
+Skyworks Solutions	David J. Aldrich	6912623	101842	68	3.8	691.26230
+Halliburton	David J. Lesar	20560157	79045	260	3.3	2056.0157
+Equity Residential	David J. Neithercut	8139683	58646	139	3.5	813.96830
+Cigna	David M. Cordani	14461445	66365	218	3.3	1446.1445
+Honeywell	David M. Cote, J.D.	29142121	86785	336	3.2	2914.2121
+Discovery Comm.	David M. Zaslav	156077912	80000	1951	3.8	15607.791
+Emerson	David N. Farr	9509258	79211	120	3.5	950.92580
+LabCorp	David P. King	10472562	35970	291	2.9	1047.2562
+Waste Management	David P. Steiner	10770856	60613	178	2.9	1077.0856
+Leggett & Platt	David S. Haffner	7242695	48354	150	3.4	724.26950
+Simon Property Group	David Simon	14739246	37660	391	2.9	1473.9246
+Fluor	David T. Seaton	12011493	86339	139	3.8	1201.1493
+Discover	David W. Nelms	8671740	77596	112	3.7	867.17400
+Avery Dennison	Dean A. Scarborough	12013019	81680	147	3.2	1201.3019
+Sempra Energy	Debra L. Reed	16893225	80833	209	3.9	1689.3225
+Campbell Soup Company	Denise M. Morrison	9687089	102495	95	3.4	968.70890
+Lincoln Financial Group	Dennis R. Glass	12195333	54278	225	3.6	1219.5333
+HARMAN	Dinesh C. Paliwal	11965521	90263	133	3.3	1196.5521
+Parker Hannifin	Donald E. Washkewicz	15005720	71827	209	3.2	1500.5720
+D.R. Horton	Donald J. Tomnitz	9306748	58000	160	2.8	930.67480
+Clorox	Donald R. Knauss	8949886	110064	81	3.8	894.98860
+McDonald's	Donald Thompson	7288578	17620	414	3	728.85780
+Republic Services	Donald W. Slager	5705379	62208	92	2.9	570.53790
+Tyson Foods	Donnie Smith	12173164	50145	243	3.5	1217.3164
+Waters	Douglas A. Berthiaume	1504903	92272	16	3.5	150.49030
+International Flavors & Fragrances	Douglas D. Tough, MBA, BBA	7433601	76909	97	3.3	743.36010
+McGraw Hill Financial	Douglas L. Peterson	6498116	108555	60	3.4	649.81160
+Ecolab	Douglas M. Baker, Jr.	15456822	62208	248	3.3	1545.6822
+Caterpillar	Douglas R. Oberhelman	17131448	86844	197	3.6	1713.1448
+Varian Medical Systems	Dow R. Wilson	6443998	94427	68	3.5	644.39980
+Weyerhaeuser	Doyle R. Simons	8144434	82674	99	3.2	814.44340
+Illinois Tool Works	E. Scott Santi	11999278	71182	169	2.9	1199.9278
+Alliance Data	Edward J. Heffernan	8727450	60601	144	3.4	872.74500
+Joy Global	Edward L. Doheny, II	4534634	68407	66	2.8	453.46340
+DuPont	Ellen J. Kullman	14330612	86949	165	3.5	1433.0612
+PVH Corp.	Emanuel Chirico	13026532	45641	285	3.5	1302.6532
+VF	Eric C. Wiseman	17832902	61128	292	3.6	1783.2902
+ACE Group	Evan G. Greenberg	19678174	64395	306	3.1	1967.8174
+Hospira	F. Michael Ball	11897977	78760	151	3	1189.7977
+Akamai	F. Thomson Leighton	7499987	129603	58	4	749.99870
+Est_e Lauder Companies	Fabrizio Freda	15562714	74615	209	3.4	1556.2714
+The Home Depot	Francis S. Blake	9858833	25507	387	3.3	985.88330
+Cognizant Technology Solutions	Francisco DeSouza	11333063	85000	133	3.5	1133.3063
+FIS	Frank R. Martire	8845000	75850	117	3	884.50000
+AMETEK	Frank S. Hermance	7109240	70814	100	2.8	710.92400
+Northern Trust	Frederick H. Waddell	12435522	67258	185	3.4	1243.5522
+FedEx	Frederick W. Smith	14151977	59020	240	3.8	1415.1977
+Starwood Hotels & Resorts	Frits van Paasschen	12001943	44535	269	3.5	1200.1943
+Apache	G. Steven Farris	10214172	101559	101	3.3	1021.4172
+Southwest Airlines	Gary C. Kelly	5002785	52888	95	4.1	500.27850
+Applied Materials	Gary E. Dickerson	16425005	117550	140	3.5	1642.5005
+Newmont Mining	Gary J. Goldberg	9547404	110268	87	3.2	954.74040
+Marathon Petroleum	Gary R. Heminger	16401255	80000	205	4	1640.1255
+ConAgra Foods	Gary Rodkin	9130934	73579	124	3	913.09340
+Intuitive Surgical	Gary S. Guthart, Ph.D.	2617963	125073	21	3.8	261.79630
+Biogen Idec	George A. Scangos	18631369	118325	157	3.7	1863.1369
+Express Scripts	George Paz	12921006	66398	195	2.4	1292.1006
+Tyco	George R. Oliver	8998307	77724	116	2.7	899.83070
+Cardinal Health	George S. Barrett	12448618	67360	185	3.4	1244.8618
+BNY Mellon	Gerald L. Hassell	11659528	56500	206	2.8	1165.9528
+DTE Energy	Gerard M. Anderson	12604355	80103	157	3.9	1260.4355
+CenturyLink	Glen F. Post, III	13131448	74615	176	2.9	1313.1448
+Progressive Insurance	Glenn M. Renwick	9841581	51934	190	3.6	984.15810
+Gap	Glenn Murphy	16064312	22800	705	3.6	1606.4312
+Phillips 66	Greg C. Garland	24508433	92065	266	3.8	2450.8433
+Tractor Supply	Gregory A. Sandfort	4695342	36000	130	3.1	469.53420
+Aon	Gregory C. Case	13991640	70127	200	3.4	1399.1640
+Walgreens	Gregory D. Wasson	16732555	30980	540	2.9	1673.2555
+Franklin Templeton Investments	Gregory Eugene Johnson, CPA	15904296	70449	226	3.8	1590.4296
+Tesoro Corporation	Gregory J. Goff	20855549	79015	264	3.5	2085.5549
+O'Reilly Auto Parts	Gregory L. Henslee	4465436	29247	153	3.2	446.54360
+Motorola Solutions	Gregory Q. Brown	7969131	108558	73	3.2	796.91310
+Danaher	H. Lawrence Culp, Jr.	13704222	86898	158	2.9	1370.4222
+Prologis	Hamid R. Moghadam	16514721	75244	219	3.7	1651.4721
+Robert Half	Harold M. Messmer, Jr.	8292876	56788	146	3.2	829.28760
+Zions Bancorporation	Harris H. Simmons	2500822	68400	37	3.5	250.08220
+Hess Corporation	Hess, John B.	22459530	75883	296	3.6	2245.9530
+Western Union	Hikmet Ersek	8241800	102595	80	3.1	824.18000
+Avago Technologies	Hock E. Tan	17202596	122285	141	2.5	1720.2596
+Starbucks	Howard D. Schultz	21466454	32080	669	3.8	2146.6454
+Best Buy	Hubert Joly	13881219	25160	552	3.4	1388.1219
+Monsanto Company	Hugh Grant	13436483	81680	165	3.8	1343.6483
+Pfizer	Ian C. Read	23283048	114526	203	3.7	2328.3048
+Colgate-Palmolive	Ian Cook	14531582	105472	138	3.8	1453.1582
+PepsiCo	Indra K. Nooyi	22485574	61876	363	3.5	2248.5574
+3M	Inge G. Thulin	20115589	84130	239	3.7	2011.5589
+Mondelez International	Irene Rosenfeld	21039946	49225	427	3.1	2103.9946
+Computer Sciences Corp	J. Michael Lawrie	13267195	87476	152	2.6	1326.7195
+GameStop	J. Paul Raines	8604576	24880	346	3.1	860.45760
+Chevron	J.S. Watson	25970417	110000	236	4.1	2597.0417
+Cameron	Jack B. Moore	10264287	75883	135	3.5	1026.4287
+Navient	Jack Remondi	6613724	62440	106	2.6	661.37240
+First Solar	James A. Hughes	3776136	102693	37	3.8	377.61360
+T. Rowe Price	James Aloysius Charles Kennedy, CFA	8902148	51765	172	3.5	890.21480
+American Tower	James D. Taiclet, Jr.	12704773	67879	187	3	1270.4773
+J.P. Morgan	James Dimon	27701709	65344	424	3.5	2770.1709
+Cablevision Systems	James L. Dolan	23702403	56155	422	3.3	2370.2403
+LyondellBasell	James L. Gallogly	13192990	113762	116	2.7	1319.2990
+NextEra Energy, Inc.	James L. Robo	12183296	92554	132	3.1	1218.3296
+Ameriprise	James M. Cracchiolo	24455192	58902	415	3.4	2445.5192
+Red Hat	James M. Whitehurst	6692552	115693	58	4	669.25520
+Morgan Stanley	James P. Gorman	23270044	98232	237	3.6	2327.0044
+BorgWarner	James R. Verrier	10005230	70015	143	3.7	1000.5230
+Mosaic Company (Minnesota)	James T. Prokopanko	14820237	70866	209	3.3	1482.0237
+W.W. Grainger	James T. Ryan	7711460	66365	116	3.4	771.14600
+Travelers Companies	Jay S. Fishman	20435381	67360	303	3.5	2043.5381
+Level 3 Communications	Jeff K. Storey	10850861	96791	112	3.1	1085.0861
+Whirlpool	Jeff M. Fettig	17544567	86000	204	3.6	1754.4567
+Fiserv	Jeffery W.Yabuki	8275917	76575	108	2.9	827.59170
+Intercontinental Exchange	Jeffrey C. Sprecher	10621045	110000	97	2.7	1062.1045
+Time Warner	Jeffrey L. Bewkes	32903139	87916	374	3.6	3290.3139
+Hormel	Jeffrey M. Ettinger	9662613	69464	139	3.6	966.26130
+Vertex Pharmaceuticals	Jeffrey M. Leiden	36635468	123840	296	3.7	3663.5468
+Amazon.com	Jeffrey P. Bezos	1681840	114352	15	3.4	168.18400
+GE	Jeffrey R. Immelt	37250774	89186	418	3.8	3725.0774
+Mohawk Industries	Jeffrey S. Lorberbaum	5005702	60074	83	3.2	500.57020
+Expeditors	Jeffrey S. Musser	5080036	55092	92	3.3	508.00360
+NVIDIA	Jen-Hsun Huang	6022630	127317	47	3.9	602.26300
+Sealed Air Corporation	Jerome A. Peribere	11963159	81340	147	3.1	1196.3159
+Kellogg Company	John A. Bryant	9258243	66946	138	3.2	925.82430
+Eli Lilly	John C. Lechleiter, Ph.D.	14481142	104142	139	3.8	1448.1142
+Gilead Sciences	John C. Martin	18957994	119176	159	3	1895.7994
+Chubb Corp	John D. Finnegan	17841294	74805	239	3.8	1784.1294
+Michael Kors	John D. Idol	13559220	32000	424	3.4	1355.9220
+Omnicom	John D. Wren	24014697	76493	314	3.9	2401.4697
+Stanley Black & Decker	John F. Lundgren	13137482	69714	188	3.2	1313.7482
+Coca-Cola Enterprises, Inc.	John Franklin Brock, III	11267498	49008	230	3.1	1126.7498
+Wells Fargo	John G. Stumpf	21426391	44265	484	3.3	2142.6391
+McKesson	John H. Hammergren	25919882	83491	310	3.2	2591.9882
+eBay	John J. Donahoe, II	14050057	132220	106	3.6	1405.0057
+Nucor	John J. Ferriola	8941639	70469	127	3.4	894.16390
+Union Pacific	John J. Koraleski	28144047	73351	384	3.5	2814.4047
+F5 Networks	John McAdam	8143742	138403	59	4.2	814.37420
+Con Edison	John McAvoy	9685688	97700	99	2.9	968.56880
+J.B. Hunt	John N. Roberts, III	4346470	52106	83	3.4	434.64700
+People's United Bank	John P. Barnes	3698121	35000	106	2.9	369.81210
+The Hershey Company	John P. Bilbrey	17777401	55092	323	3.7	1777.7401
+Altera	John P. Daane	7248710	141035	51	3.4	724.87100
+C.H. Robinson Worldwide	John P. Wiehoff	5029488	46634	108	3.1	502.94880
+Devon Energy	John Richels	21611030	82905	261	3.8	2161.1030
+Prudential	John Robert Strangfeld	37483092	72771	515	3.5	3748.3092
+Cisco Systems	John T. Chambers	16488184	138861	119	3.7	1648.8184
+FMC Technologies	John T. Gremp	13892357	84149	165	3.2	1389.2357
+International Paper	John V. Faraci	16032223	67360	238	3.5	1603.2223
+Legg Mason	Joseph A. Sullivan	11548620	91734	126	3.6	1154.8620
+Perrigo	Joseph C. Papa	18945540	61967	306	3.4	1894.5540
+State Street	Joseph L. Hooley	18842196	50921	370	2.9	1884.2196
+Pepco Holdings	Joseph M. Rigby	7227146	83510	87	3.2	722.71460
+EMC	Joseph M. Tucci	11203318	116674	96	3.7	1120.3318
+Anthem	Joseph R. Swedish	13532549	74000	183	3.4	1353.2549
+Valero Energy	Joseph W. Gorder	16056949	77158	208	3.7	1605.6949
+Zoetis	Juan Ramn Alaix	7636726	114000	67	3.1	763.67260
+American Express	K.I. Chenault	22796083	108598	210	3.7	2279.6083
+Rockwell Automation	Keith D. Nosbusch	8473582	83739	101	3.7	847.35820
+Harley-Davidson	Keith E. Wandell	9183690	80833	114	3	918.36900
+Masco	Keith J. Allman	4750833	61790	77	3.1	475.08330
+BB&T	Kelly S. King	14118763	45002	314	3.2	1411.8763
+General Mills	Kendall J. Powell	11604484	83273	139	3.5	1160.4484
+Merck	Kenneth C. Frazier	25029370	110183	227	3.2	2502.9370
+Scripps Networks Interactive	Kenneth W. Lowe	11838015	77074	154	3.5	1183.8015
+DaVita	Kent J. Thiry	13791023	61000	226	3.1	1379.1023
+Stryker	Kevin A. Lobo	9120147	79045	115	3.9	912.01470
+Under Armour	Kevin A. Plank	3556190	36130	98	3.6	355.61900
+SCANA	Kevin B. Marsh	5710448	71079	80	3.5	571.04480
+Kohl's	Kevin Mansell	9668796	23210	417	3.2	966.87960
+Fifth Third	Kevin T. Kabat	7427396	45945	162	3.2	742.73960
+Alcoa	Klaus-Christian Kleinfeld, Ph.D., rer. pol., Dipl.	18158522	70158	259	3.2	1815.8522
+Bristol-Myers Squibb	Lamberto Andreotti	27062382	123310	219	3.7	2706.2382
+Dr Pepper Snapple Group	Larry D. Young	9671181	50867	190	3.1	967.11810
+Principal Financial Group	Larry D. Zimpleman	16919388	67868	249	3.9	1691.9388
+CVS Health	Larry J. Merlo	32350733	27139	1192	2.7	3235.0733
+BlackRock	Laurence D. Fink	23862458	124361	192	3.6	2386.2458
+Pall	Lawrence D. Kingsley	9471578	88530	107	2.6	947.15780
+Oracle	Lawrence J. Ellison	67261251	117415	573	3.3	6726.1251
+Newfield Exploration	Lee K. Boothby	6716841	112337	60	3.1	671.68410
+Marathon Oil	Lee M. Tillman	11498067	119176	96	3	1149.8067
+Entergy	Leo P. Denault	11824034	77991	152	3.2	1182.4034
+Regeneron Pharma.	Leonard S. Schleifer	41965424	79332	529	3.8	4196.5424
+L Brands	Leslie H. Wexner	24094036	61260	393	3.6	2409.4036
+CBS Corp	Leslie Moonves	57175645	66365	862	3.5	5717.5645
+Goldman Sachs	Lloyd C. Blankfein	22162912	107205	207	3.8	2216.2912
+Linear Technology	Lothar Maier	6386772	102429	62	3.8	638.67720
+United Technologies	Louis R. Chenevert	27107982	85863	316	3.3	2710.7982
+Verizon	Lowell C. McAdam	18306509	88062	208	3.3	1830.6509
+Duke Energy	Lynn J. Good	8305351	78259	106	3.6	830.53510
+Ingersoll Rand	M. W. Lamach	19417506	74458	261	3.4	1941.7506
+Pitney Bowes	Marc B. Lautenbach	6966360	70647	99	3.2	696.63600
+Salesforce	Marc Benioff	31333332	151512	207	3.9	3133.3332
+Thermo Fisher Scientific	Marc N. Casper	17446957	79898	218	3.2	1744.6957
+Hewlett-Packard	Margaret C. Whitman	19612164	103632	189	3.3	1961.2164
+Lockheed Martin	Marillyn A. Hewson	33687442	85465	394	3.5	3368.7442
+Yahoo	Marissa A. Mayer	42083508	137011	307	3.5	4208.3508
+Flowserve	Mark A. Blinn	7660592	74235	103	3.2	766.05920
+Citrix Systems	Mark B. Templeton	7883614	113997	69	3.6	788.36140
+Mallinckrodt Pharmaceuticals	Mark Christopher Trudeau	6502676	96995	67	2.7	650.26760
+Precision Castparts	Mark Donegan	9699876	71460	136	2.9	969.98760
+Ford Motor Company	Mark Fields	18596497	90050	207	3.7	1859.6497
+NIKE	Mark G. Parker	16819730	44073	382	4	1681.9730
+Eastman Chemical	Mark J. Costa	7851406	83722	94	4.5	785.14060
+Aetna	Mark T. Bertolini	15067322	67873	222	3.3	1506.7322
+Lam Research	Martin B. Anstice	15009218	109247	137	3.8	1500.9218
+Altria	Martin J. Barrington	12320990	79572	155	3.7	1232.0990
+Invesco	Martin L. Flanagan	15622002	66082	236	3.7	1562.2002
+Paychex	Martin Mucci	6006823	60285	100	3.6	600.68230
+Baker Hughes	Martin S. Craighead	14709830	86844	169	3.5	1470.9830
+Frontier Communications	Mary Agnes Wilderotter	9158907	65500	140	3	915.89070
+General Motors	Mary T. Barra	16162828	93165	173	3.5	1616.2828
+Edwards Lifesciences	Michael A. Mussallem	8616570	95528	90	3.1	861.65700
+Newell Rubbermaid	Michael B. Polk	12351559	77724	159	3.1	1235.1559
+Teradata	Michael F. Koehler	6448133	117352	55	3.4	644.81330
+Boston Scientific	Michael F. Mahoney	10527884	95860	110	3.6	1052.7884
+Interpublic Group	Michael I. Roth	12899339	73553	175	3.5	1289.9339
+United Rentals	Michael J. Kneeland	8402819	61105	138	3.5	840.28190
+Tiffany & Co.	Michael J. Kowalski	8101758	61260	132	2.9	810.17580
+Essex Property Trust	Michael J. Schall	2764573	60000	46	2.9	276.45730
+CSX	Michael J. Ward	10068089	66161	152	3.5	1006.8089
+Citi	Michael L. Corbat	14457199	99666	145	3.3	1445.7199
+Airgas	Michael L. Molinini	4302807	55580	77	2.6	430.28070
+CA Technologies	Michael P. Gregoire	8344222	122520	68	3.2	834.42220
+XL Group	Michael S. McGavick	11734396	102013	115	3.6	1173.4396
+L-3 Communications	Michael T. Strianese	14765393	81804	180	3.2	1476.5393
+AutoNation	Mike Jackson	10606596	52103	204	3.2	1060.6596
+Abbott Labs	Miles D. White	17732241	101178	175	3.5	1773.2241
+Nielsen	Mitch Barns	6957892	71646	97	3.6	695.78920
+Xilinx	Moshe N. Gavrielov	6471480	141448	46	3.4	647.14800
+Coca-Cola Company	Muhtar Kent	25224422	54804	460	3.3	2522.4422
+Cummins	N. T. Linebarger	14784555	79442	186	3.9	1478.4555
+ADT Security Services	Naren K. Gursahaney	5465388	51050	107	2.5	546.53880
+Cerner	Neal L. Patterson	6599410	65000	102	3.6	659.94100
+CONSOL Energy	Nicholas J. DeIuliis	8326097	78004	107	2.5	832.60970
+AEP	Nicholas K. Akins	11373520	78590	145	3.7	1137.3520
+Snap-on	Nicholas T. Pinchuk	9540993	72194	132	3.3	954.09930
+Regions Financial	O. B. Grayson Hall, Jr.	14421247	37683	383	3.5	1442.1247
+Medtronic	Omar Ishrak	12118846	96005	126	3.7	1211.8846
+Schlumberger	Paal Kibsgaard	18518374	94443	196	3.5	1851.8374
+ADM	Patricia Woertz	17022941	61130	278	3.3	1702.2941
+Xylem	Patrick K. Decker	8227869	74974	110	2.9	822.78690
+Brown-Forman	Paul C. Varga	12259150	96468	127	4.2	1225.9150
+E*TRADE Financial	Paul T. Idzik	5258458	70561	75	2.9	525.84580
+Mead Johnson	Peter Kasper Jakobsen	8369158	100267	83	3.3	836.91580
+General Dynamics	Phebe N. Novakovic	19388084	86404	224	3.4	1938.8084
+Viacom	Philippe P. Dauman	44334858	82094	540	3.6	4433.4858
+TSYS	Phillip W. Tomlinson	5440198	67304	81	3.2	544.01980
+CME Group	Phupinder S. Gill	5368575	105163	51	3.5	536.85750
+Accenture	Pierre Nanterme	15925463	89848	177	3.6	1592.5463
+FMC	Pierre R. Brondeau	5117145	89500	57	2.8	511.71450
+Anadarko Petroleum	R. A. Walker	20720187	110626	187	4.4	2072.0187
+Hospital Corporation of America	R. Milton Johnson	14625513	61000	240	3.4	1462.5513
+ConocoPhillips	R.M. Lance	27575900	103296	267	3.8	2757.5900
+ExxonMobil	R.W. Tillerson	33096312	108000	306	3.7	3309.6312
+Endo Pharmaceuticals	Rajiv De Silva	22071596	115588	191	2.8	2207.1596
+Sigma-Aldrich	Rakesh Sachdev	5630524	66000	85	3	563.05240
+PSEG	Ralph Izzo, Ph.D.	11014644	93008	118	3.2	1101.4644
+Polo Ralph Lauren	Ralph Lauren	24537936	47452	517	3.3	2453.7936
+Comerica	Ralph W. Babb, Jr.	11311926	51025	222	3.3	1131.1926
+Pentair	Randall J. Hogan	14836702	82097	181	2.9	1483.6702
+AT&T	Randall L. Stephenson	23984315	67302	356	3.3	2398.4315
+Moody's	Raymond W. McDaniel, Jr.	14099502	103208	137	3.6	1409.9502
+Netflix	Reed Hastings	11063926	134721	82	3.6	1106.3926
+AbbVie	Richard A. Gonzalez	22006271	104366	211	3.6	2200.6271
+Hanesbrands	Richard A. Noll	11116508	58000	192	3.3	1111.6508
+Freeport-McMoRan Copper & Gold	Richard C. Adkerson	10123035	74154	137	3.9	1012.3035
+Royal Caribbean Cruises	Richard D. Fain	12013878	68146	176	3.6	1201.3878
+Capital One	Richard D. Fairbank	19606474	83117	236	3.6	1960.6474
+Equifax	Richard F. Smith	13879675	90324	154	3.5	1387.9675
+Delta Air Lines	Richard H. Anderson	17589867	54804	321	4	1758.9867
+Pulte Homes	Richard J. Dugas, Jr.	7723041	69027	112	3.6	772.30410
+Goodyear	Richard J. Kramer	17853097	61260	291	3.4	1785.3097
+U.S. Bank	Richard K. Davis	19373076	43525	445	3.3	1937.3076
+The J. M. Smucker Company	Richard K. Smucker	4886995	69428	70	3.8	488.69950
+Texas Instruments	Richard K. Templeton	15043694	106878	141	3.8	1504.3694
+KLA-Tencor	Richard P. Wallace	6889513	116394	59	3.3	688.95130
+Dollar General	Richard W. Dreiling,	9764152	32683	299	2.8	976.41520
+Amgen	Robert A. Bradway	13961667	121202	115	3.5	1396.1667
+Walt Disney Co.	Robert A. Iger	46497018	79211	587	3.8	4649.7018
+Lowe's	Robert A. Niblock	14279945	29720	480	3.4	1427.9945
+Assurant	Robert B. Pollock	11903533	46961	253	3.2	1190.3533
+NiSource	Robert C. Skaggs, Jr.	8282039	66500	125	3.9	828.20390
+Chesapeake Energy	Robert D. ("Doug") Lawler	14677377	82297	178	3.7	1467.7377
+Time Warner Cable	Robert D. Marcus	34615597	55006	629	3.3	3461.5597
+Ryder System	Robert E. Sanchez	5654252	55702	102	3.1	565.42520
+PerkinElmer	Robert F. Friel	8934070	89848	99	2.4	893.40700
+M&T Bank	Robert G. Wilmers	4223419	51816	82	3.2	422.34190
+NASDAQ	Robert Greifeld	12083929	131709	92	3.6	1208.3929
+AIG	Robert Herman Benmosche	11433372	85216	134	3	1143.3372
+Celgene	Robert J. Hugin	24236113	117517	206	3.7	2423.6113
+News Corp	Robert J. Thomson	12466016	78981	158	2.9	1246.6016
+Rockwell Collins	Robert K. Ortberg	5828786	81536	71	3.5	582.87860
+Baxter	Robert L. Parkinson, Jr.,	15304702	82479	186	3.4	1530.4702
+Dun & Bradstreet	Robert P. Carrigan	4198663	114440	37	3.4	419.86630
+Constellation Brands	Robert Sands	10410261	100530	104	3.6	1041.0261
+Delphi	Rodney O'Neal	14874930	91618	162	3.3	1487.4930
+Murphy Oil	Roger W. Jenkins	12778568	44929	284	3	1277.8568
+PACCAR	Ronald E. Armstrong	6757823	70669	96	2.8	675.78230
+Public Storage	Ronald L. Havner, Jr.	9009200	26027	346	3.1	900.92000
+Staples	Ronald L. Sargent	12391537	25407	488	3	1239.1537
+John Deere	Samuel R. Allen	20273296	74573	272	3.8	2027.3296
+General Growth Properties	Sandeep Lakhmi Mathrani	4892039	76622	64	3.4	489.20390
+SanDisk	Sanjay Mehrotra	11498963	130000	88	3.2	1149.8963
+Microsoft	Satya Nadella	84308755	137000	615	3.8	8430.8755
+Broadcom	Scott A. McGregor	16451411	145084	113	3.5	1645.1411
+Textron	Scott C. Donnelly	13590693	76537	178	3.3	1359.0693
+Cintas	Scott D. Farmer	4700884	52222	90	3.3	470.08840
+CenterPoint Energy	Scott M. Prochazka	4897291	68000	72	3.7	489.72910
+Patterson Companies	Scott P. Anderson	2570509	56997	45	3.4	257.05090
+Air Products	Seifi Ghasemi	10189713	89015	114	3.5	1018.9713
+Adobe	Shantanu Narayen	17890918	133322	134	4	1789.0918
+Juniper Networks	Shaygan Kheradpir	30165992	153624	196	3.6	3016.5992
+Henry Schein	Stanley M. Bergman	6869691	50000	137	3.3	686.96910
+Wynn Resorts	Stephen A. Wynn	25322854	50961	497	3.5	2532.2854
+Western Digital	Stephen D. Milligan	11290562	107750	105	3.3	1129.0562
+Huntington National Bank	Stephen D. Steinour	7498609	48569	154	3	749.86090
+Praxair	Stephen F. Angel	19687401	80576	244	3.1	1968.7401
+Quest Diagnostics	Stephen H. Rusckowski	9266835	55828	166	2.	926.68350
+Occidental Petroleum	Stephen I. Chazen	6792704	110465	61	3.3	679.27040
+UnitedHealth Group	Stephen J. Hemsley	14856321	67000	222	2.9	1485.6321
+Seagate Technology	Stephen J. Luczo	2615517	108939	24	3.6	261.55170
+Wyndham Worldwide	Stephen P. Holmes	14111891	58000	243	3.4	1411.1891
+Equinix	Stephen Smith	11513031	145084	79	3.6	1151.3031
+Chipotle	Steve Ells	28924270	19000	1522	3.4	2892.4270
+Microchip Technology	Steve Sanghi	5767310	81124	71	3.7	576.73100
+MetLife	Steven A. Kandarian, J.D.	15163802	79045	192	3.2	1516.3802
+AmerisourceBergen	Steven H. Collis	9902985	59462	167	3.2	990.29850
+Bed Bath & Beyond	Steven H. Temares	19116040	26047	734	2.9	1911.6040
+Southwestern Energy	Steven L. Mueller	11453881	94986	121	3.4	1145.3881
+Transocean	Steven L. Newman	14248615	89279	160	3.1	1424.8615
+Qualcomm	Steven M. Mollenkopf	60740592	121249	501	3.7	6074.0592
+Lennar	Stuart A. Miller	17909543	63000	284	3	1790.9543
+Reynolds American	Susan M. Cameron	10751553	63906	168	3.4	1075.1553
+Aimco Apartment Homes	Terry Considine, J.D.	4284430	57978	74	4	428.44300
+Macy's	Terry J. Lundgren	16497220	22800	724	3	1649.7220
+ONEOK	Terry K. Spencer	4042922	74365	54	3.7	404.29220
+Southern Company	Thomas A. Fanning	11515993	81536	141	3.6	1151.5993
+Raytheon	Thomas A. Kennedy	13733364	89057	154	3.4	1373.3364
+Genuine Parts	Thomas C. Gallagher	10130811	59131	171	3	1013.0811
+Dominion Resources	Thomas F. Farrell, II	20612945	85943	240	3.8	2061.2945
+NetApp	Thomas Georgens	8580575	130033	66	3.5	858.05750
+Kimberly-Clark	Thomas J. Falk	15395181	83737	184	3.6	1539.5181
+CarMax	Thomas J. Folliard	9043334	44792	202	3.5	904.33340
+TE Connectivity	Thomas J. Lynch	11616982	84792	137	3.3	1161.6982
+Genworth Financial	Thomas J. McInerney	2696365	77128	35	3.3	269.63650
+Allstate	Thomas J. Wilson	15641385	56155	279	3.4	1564.1385
+Unum Group	Thomas R. Watjen	13314589	62254	214	3.6	1331.4589
+AvalonBay	Tim Naughton	7427676	54491	136	4	742.76760
+Apple	Timothy D. Cook	9222638	36760	251	4	922.26380
+Bard	Timothy M. Ring	10840935	82638	131	3.6	1084.0935
+Tenet Healthcare	Trevor Fetter	17950107	69714	257	3	1795.0107
+Xerox	Ursula M. Burns	22205362	69307	320	2.5	2220.5362
+Coach	Victor Luis	6679113	34771	192	3.6	667.91130
+BD	Vincent A. Forlenza, BD	10983518	95000	116	3.2	1098.3518
+Analog Devices	Vincent T. Roche	6090567	103127	59	3.7	609.05670
+IBM	Virginia M. Rometty	19345125	106184	182	3.2	1934.5125
+Crown Castle	W. Benjamin Moreland	8412742	68397	123	4.1	841.27420
+Costco Wholesale	W. Craig Jelinek	5622927	30555	184	3.9	562.29270
+American Airlines	W. Douglas Parker	12301976	54800	224	3.4	1230.1976
+Boeing	W. James McNerney, Jr.	28861920	84974	340	3.5	2886.1920
+Kroger	W. Rodney McMullen	12987582	20420	636	3	1298.7582
+Whole Foods Market	Walter E. Robb, III	2742520	26000	105	3.6	274.25200
+Charles Schwab	Walter W. Bettinger II	11841179	71619	165	3.4	1184.1179
+Ameren	Warner L. Baxter, CPA	4958397	74000	67	3.7	495.83970
+Corning	Wendell P. Weeks	13034461	85882	152	3.8	1303.4461
+Northrop Grumman	Wesley G. Bush	21795703	88147	247	3.5	2179.5703
+Fastenal	Willard D. Oberton	1468943	35834	41	2.9	146.89430
+H&R Block	William C. Cobb	7485383	35488	211	3.6	748.53830
+AutoZone	William C. Rhodes, III	5320741	24900	214	2.9	532.07410
+SunTrust	William Henry Rogers, Jr.	9190668	44562	206	2.8	919.06680
+Sysco	William J. DeLaney, III	7815394	60000	130	3.1	781.53940
+Iron Mountain Inc	William L. Meaney	6840413	78160	88	2.9	684.04130
+Harris	William M. Brown	7847382	80149	98	2.9	784.73820
+Agilent Technologies	William P. Sullivan	13914733	107268	130	3.5	1391.4733
+EOG	William R. Thomas	10548457	95924	110	3.7	1054.8457
+PNC Financial Services Group	William S. Demchak	11337904	42489	267	3.3	1133.7904
