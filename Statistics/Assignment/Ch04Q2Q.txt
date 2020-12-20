@@ -1,0 +1,1 @@
+Generate 10000  uniform random variables. Transform them to exponential (2). Draw the histogram of these new random variables and superimpose with the density. Submit the code and the figure.

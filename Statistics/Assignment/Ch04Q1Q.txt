@@ -1,0 +1,1 @@
+Use the sample command to shuffle a deck of 52 cards. Treat the deck as a vector of length 52 consisting of the numbers 1 to 52. After shuffling you should get another vector of length 52 that contains the same numbers but randomly rearranged. Submit the code and the output.

@@ -1,0 +1,9 @@
+A sample of eight doctors was asked how many flu shots they had given to patients this year. The numbers of flu shots were 6, 3, 5, 24, 2, 6, 0, and 8.
+1. Find the sample mean
+2. Find the sample median
+3. Based on the values of the mean and median, are the measurements symmetric or skewed? Why?
+4. Find the interquartile range
+5. Find the sample standard deviation
+6. What percentage of values lie between 2 sd's of the mean?
+7. According to Chebyshevs theorem, what percentage of values are guaranteed to lie within 2 sd's of the mean?
+8. Is the value 24 an outlier? Explain.

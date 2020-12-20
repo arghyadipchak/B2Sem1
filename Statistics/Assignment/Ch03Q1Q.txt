@@ -1,0 +1,1 @@
+Produce a pie chart of the 10 categories that have the highest frequencies in the Forbes data.  Upload the plot and the code.

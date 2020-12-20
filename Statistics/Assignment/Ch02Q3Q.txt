@@ -1,0 +1,3 @@
+1. A is the mean of n values. We multiply each value by a and add b to the product. What is the mean of the new values? Show your calculations.
+
+2. B is the standard deviation of n values. We multiply each value by a and add b to the product. What is the standard deviation of the new values? Show your calculations.

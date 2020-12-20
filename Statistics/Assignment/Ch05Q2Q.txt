@@ -1,0 +1,19 @@
+Use the data on birthweight. Restrict to non-smoking mothers.
+
+1.       Draw a histogram
+
+2.       Draw a Q-Q plot with appropriate line
+
+3.       For the following quantities, report the observed values and the expected values under normality
+
+a.       Skewness
+
+b.       Kurtosis
+
+c.       IQR/SD
+
+d.       Percentage of values within 1 SD of the mean
+
+e.       Percentage of values within 2 SD of the mean
+
+f.        Percentage of values within 3 SD of the mean

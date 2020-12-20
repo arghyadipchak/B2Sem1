@@ -1,0 +1,7 @@
+Consider the following horizontal box plot. Answer the questions below. Approximate answers upto the correct integers are acceptable.
+
+1. What is the median of the dataset?
+2. What is the upper quartile?
+3. What is the interquartile range?
+4. Is the distribution of the data symmetric, skewed to the left or skewed to the right?
+5. Identify outliers in the data, if any.

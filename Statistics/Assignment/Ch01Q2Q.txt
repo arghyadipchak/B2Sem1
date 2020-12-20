@@ -1,0 +1,18 @@
+Pollsters regularly conduct opinion polls to determine the popularity rating of ruling party.
+Suppose a poll is to be conducted tomorrow in which 2,000 individuals will be asked whether the ruling party is doing a good or bad job. The 2,000 individuals will be selected by random-digit telephone dialing and asked the question over the phone.
+
+1.   What is the relevant population?
+
+2.   What is the variable of interest?
+
+3.   What is the sample?
+
+4.   What method of data collection is employed?
+
+a.    Published source
+
+b.    Designed experiment
+
+c.    Observational study
+
+5.   What is the inference of interest to the pollster?

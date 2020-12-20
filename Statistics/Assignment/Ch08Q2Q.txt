@@ -1,0 +1,13 @@
+A garment manufacturing company recorded the amount of time that it took to make a pair of jeans on 8 different occasions. The times in minutes are listed below. Assume these measurements were taken from a population with a normal distribution. The company claims that the average time is not more than 11 minutes and we want to test this claim. 
+
+            12.5,    13.0,    11.9,    10.2,   13.1,   13.6,   13.8,   14.0
+
+            a          State the appropriate hypotheses.
+
+            b.         Compute the test statistic for the hypotheses in part (a).
+
+            c.         Does the sample data support the alternative hypothesis at the 5% level?
+
+            d.         Construct a 95% confidence interval for the mean amount of time it takes
+
+                        this company to make a pair of jeans.

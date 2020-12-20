@@ -1,0 +1,11 @@
+The aim is to estimate the difference between the means of two normal populations with equal but unknown variance.
+
+Generate a sample of size 10 from N(0,1)
+
+Generate another sample of size 20 from N(2,1), independent of the first sample.
+
+Using the samples generated, create a 95% CI for the parameter of interest.
+
+Repeat the above steps 100 times. How many of these intervals include the true parameter?
+
+Plot these intervals and the true value of the parameter, as in the R code of Lecture 7.

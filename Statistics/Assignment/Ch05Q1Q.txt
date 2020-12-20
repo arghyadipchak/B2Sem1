@@ -1,0 +1,9 @@
+Find the binomial probability distribution (pmf) for n=100 and p=0.1. 
+
+Find the normal approximation for each integer value of the variable above. 
+
+Plot the two distributions with a side-by-side bar chart. 
+
+It is enough to limit the support to [0:20] as beyond that the probabilities are very low. 
+
+Submit the code and the plot. 

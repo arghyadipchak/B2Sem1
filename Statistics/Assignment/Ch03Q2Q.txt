@@ -1,0 +1,5 @@
+Use the Airline bumping dataset for the analysis https://dasl.datadescription.com/download/data/3048
+
+The description of the data is available here https://dasl.datadescription.com/datafile/airline-bumping-2017/
+
+Draw two boxplots of the rates side-by-side for the two years in R 

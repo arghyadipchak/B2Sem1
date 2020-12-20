@@ -1,0 +1,7 @@
+Suppose X1,...Xn are iid exp(λ). Find the method of moments estimator of the rate  λ based on the first moment.
+
+For n=4 and λ=2, generate 1000 samples and find the method of moments estimator for each sample. Draw a QQ-plot of these estimators against the normal distribution with the fitted line.
+
+Repeat with n=100.
+
+Submit derivation of first part, codes, plots, and summary of observations. 
